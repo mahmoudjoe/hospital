@@ -1,0 +1,105 @@
+body
+    {
+    font-family: Arial;
+    border-style:double
+    }
+img
+    {
+   padding: 30% 0%;
+            
+    }
+.ali
+    {
+    border-radius: 10px;
+    background-size: 50% 96%;
+    background-image: url(y.jpg);
+    background-repeat: no-repeat;
+    background-position: 98%;
+    }
+
+
+input[type="user"],[type="password"]{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    outline: none;
+    }
+.pass
+    {
+    font-size: 25;
+    padding:0 80PX;
+
+    }
+.user
+    {
+    font-size: 25;
+    padding:0 80PX;
+
+    }
+.tab{
+    text-shadow: 3px 2px black;
+    font-family: Britannic;
+    padding:0 75PX;
+    margin-bottom: 0px;
+    color: grey;
+    font-size: 70px;
+   
+}
+form{
+    padding:0 60PX;
+}
+input[type="checkbox"]
+    {
+    margin: 15px 0 30px 70px;
+    box-sizing: inherit;
+    }
+input[type="checkbox"]:after{
+    content: "Remember me";
+    color: black;
+    line-height: 1;
+    position: absolute;
+    left: 170px;
+    font-size: 20px
+}
+input[type="submit"]{
+    width: 120px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: 1px solid #00baff;
+    border-radius: 10px;
+    font-size: 20px
+}
+.sp 
+    {
+    text-shadow: 3px 2px grey;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: Engravers;
+    background-color: white;
+    border: 15px solid #hsl(183deg 100% 30%);
+    margin-left: 700px;
+    border-radius: 10px;
+    }
+h
+    {
+    object-position: right
+    }
+div
+    {
+    padding:0 80PX;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: grey;
+    }
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: darkgreen;
+    margin-left: 10px;
+  }
